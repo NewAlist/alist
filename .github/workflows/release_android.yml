@@ -4,6 +4,9 @@ on:
   release:
     types: [ published ]
 
+permissions:
+  contents: write
+
 jobs:
   release_android:
     strategy:
@@ -32,3 +35,4 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           files: build/compress/*
+          token: ${{ secrets.MY_TOKEN }}
