@@ -10,7 +10,7 @@ require (
 	github.com/Xhofe/go-cache v0.0.0-20240804043513-b1a71927bc21
 	github.com/Xhofe/rateg v0.0.0-20230728072201-251a4e1adad4
 	github.com/NewAlist/gofakes3 v0.0.8
-	github.com/NewAlist/times v0.0.0-20240721124654-efa0c7d3ad92
+	github.com/NewAlist/times v0.0.1
 	github.com/aliyun/aliyun-oss-go-sdk v3.0.2+incompatible
 	github.com/avast/retry-go v3.0.0+incompatible
 	github.com/aws/aws-sdk-go v1.55.5
