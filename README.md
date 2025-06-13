@@ -14,7 +14,7 @@
   <a href="https://github.com/NewAlist/alist/releases">
     <img src="https://img.shields.io/github/release/Xhofe/alist" alt="latest version" />
   </a>
-  <a title="Crowdin" target="_blank" href="https://crwd.in/alist">
+  <a title="Crowdin" target="_blank" href="https://crowdin.com/luolili233/newalist">
     <img src="https://badges.crowdin.net/alist/localized.svg">
   </a>
 </div>
@@ -28,7 +28,7 @@
   <a href="https://github.com/NewAlist/alist/releases">
     <img src="https://img.shields.io/github/downloads/Xhofe/alist/total?color=%239F7AEA&logo=github" alt="Downloads" />
   </a>
-  <a href="https://hub.docker.com/r/xhofe/alist">
+  <a href="https://hub.docker.com/r/luolili233/newalist">
     <img src="https://img.shields.io/docker/pulls/xhofe/alist?color=%2348BB78&logo=docker&label=pulls" alt="Downloads" />
   </a>
   <a href="https://doc.newalist.top/guide/sponsor.html">
