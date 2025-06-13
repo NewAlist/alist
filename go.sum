@@ -52,7 +52,7 @@ github.com/abbot/go-http-auth v0.4.0 h1:QjmvZ5gSC7jm3Zg54DqWE/T5m1t2AfDu6QlXJT0E
 github.com/abbot/go-http-auth v0.4.0/go.mod h1:Cz6ARTIzApMJDzh5bRMSUou6UMSp0IEXg9km/ci7TJM=
 github.com/aead/ecdh v0.2.0 h1:pYop54xVaq/CEREFEcukHRZfTdjiWvYIsZDXXrBapQQ=
 github.com/aead/ecdh v0.2.0/go.mod h1:a9HHtXuSo8J1Js1MwLQx2mBhkXMT6YwUmVVEY4tTB8U=
-github.com/NewAlist/gofakes3 v0.0.7 h1:0cDGI7fLBrqumhCBto9T3ZYCL71AyGZ1l+xxJgjqe8s=
+github.com/NewAlist/gofakes3 v0.0.7 h1:VENjCHMi+ONDmwDBiptnk/xqmdE5B+UwqarGAXQxUEA=
 github.com/NewAlist/gofakes3 v0.0.7/go.mod h1:6IyGtYGIX29fLvtXo+XZhtwX2P33KVYYj8uTgAHSu58=
 github.com/NewAlist/times v0.0.0-20240721124654-efa0c7d3ad92 h1:m/J24r0LsJ7xz9gsil0eoCZSaUfmOJoGIpPSqPMmuZE=
 github.com/NewAlist/times v0.0.0-20240721124654-efa0c7d3ad92/go.mod h1:oPJwGY3sLmGgcJamGumz//0A35f4BwQRacyqLNcJTOU=
