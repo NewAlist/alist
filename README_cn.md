@@ -6,30 +6,27 @@
     <img src="https://goreportcard.com/badge/github.com/NewAlist/alist/v3" alt="latest version" />
   </a>
   <a href="https://github.com/NewAlist/alist/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/Xhofe/alist" alt="License" />
+    <img src="https://img.shields.io/github/license/NewAlist/alist" alt="License" />
   </a>
   <a href="https://github.com/NewAlist/alist/actions?query=workflow%3ABuild">
-    <img src="https://img.shields.io/github/actions/workflow/status/Xhofe/alist/build.yml?branch=main" alt="Build status" />
+    <img src="https://img.shields.io/github/actions/workflow/status/NewAlist/alist/build.yml?branch=main" alt="Build status" />
   </a>
   <a href="https://github.com/NewAlist/alist/releases">
-    <img src="https://img.shields.io/github/release/Xhofe/alist" alt="latest version" />
+    <img src="https://img.shields.io/github/release/NewAlist/alist" alt="latest version" />
   </a>
-  <a title="Crowdin" target="_blank" href="https://crwd.in/alist">
+  <a title="Crowdin" target="_blank" href="https://zh.crowdin.com/project/newalist">
     <img src="https://badges.crowdin.net/alist/localized.svg">
   </a>
 </div>
 <div>
   <a href="https://github.com/NewAlist/alist/discussions">
-    <img src="https://img.shields.io/github/discussions/Xhofe/alist?color=%23ED8936" alt="discussions" />
-  </a>
-  <a href="https://discord.gg/F4ymsH4xv2">
-    <img src="https://img.shields.io/discord/1018870125102895134?logo=discord" alt="discussions" />
+    <img src="https://img.shields.io/github/discussions/NewAlist/alist?color=%23ED8936" alt="discussions" />
   </a>
   <a href="https://github.com/NewAlist/alist/releases">
-    <img src="https://img.shields.io/github/downloads/Xhofe/alist/total?color=%239F7AEA&logo=github" alt="Downloads" />
+    <img src="https://img.shields.io/github/downloads/NewAlist/alist/total?color=%239F7AEA&logo=github" alt="Downloads" />
   </a>
   <a href="https://hub.docker.com/r/luolili233/newalist">
-    <img src="https://img.shields.io/docker/pulls/xhofe/alist?color=%2348BB78&logo=docker&label=pulls" alt="Downloads" />
+    <img src="https://img.shields.io/docker/pulls/NewAlist/alist?color=%2348BB78&logo=docker&label=pulls" alt="Downloads" />
   </a>
   <a href="https://doc.newalist.top/zh/guide/sponsor.html">
     <img src="https://img.shields.io/badge/%24-sponsor-F87171.svg" alt="sponsor" />
